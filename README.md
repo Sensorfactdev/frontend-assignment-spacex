@@ -1,9 +1,8 @@
 ### Assignment
 
-The following prompt is a baseline. The only hard requirements we impose are the use of React and Typescript. You have complete freedom over all other libraries and tools. You may use a different API than the one suggested as long as you remain true to the spirit of the assignment. Please the requirements section for details.
+The following use case is a baseline. The only hard requirements we impose are the use of React and Typescript. You have complete freedom over all other libraries and tools. You may use a different API than the one suggested as long as you remain true to the spirit of the assignment. Please the requirements section for details.
 The following use case is a baseline. The only hard requirements we impose are the use of React and Typescript. You have complete freedom over all other libraries and tools. You may use a different API than the one suggested as long as you remain true to the spirit of the assignment. 
 
-### Prompt
 ### Use case
 
 In this assignment you will create a small [React](https://reactjs.org/) project
