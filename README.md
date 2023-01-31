@@ -1,7 +1,8 @@
 # Sensorfact assignment fullstack developer: SpaceX case
 ## Intro
 ### Goal
-The goal of this assignment is to assess your skills as a fullstack developer.
+The goal of this assignment is to assess the skills, expertise and way of working of applicants
+for front-end developer positions in Sensorfact
 
 In this assignment, we included a few of the technologies that we use in our
 existing solution:
